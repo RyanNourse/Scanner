@@ -7,3 +7,6 @@ Tokens:
 ERROR, ENDOFFILE, LBRACE, RBRACE, EQUALASSIGN, EE, STRING, SEMI, LPAREN, RPAREN, GRE, GR, MULTIPLY, DIVIDE, PLUS, MINUS, MOD, COMMA, AND, OR, NOT, FLOAT,NONE
 
 There is a file called "example.txt" that will have the test case used
+
+
+<img width="430" alt="Screenshot 2024-03-15 at 11 16 46 AM" src="https://github.com/RyanNourse/Scanner/assets/77693212/a77b458e-f076-45c7-b9f1-92e3cd73d5c8">
